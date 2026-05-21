@@ -1,0 +1,5 @@
+{"query": "How do I create a webhook trigger in n8n?", "relevant_urls": ["https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook/"]}
+{"query": "What is the Model Context Protocol?", "relevant_urls": ["https://modelcontextprotocol.io/introduction"]}
+{"query": "How do I expose a tool from an MCP server?", "relevant_urls": ["https://modelcontextprotocol.io/docs/concepts/tools"]}
+{"query": "Can n8n run on a self-hosted server?", "relevant_urls": ["https://docs.n8n.io/hosting/"]}
+{"query": "What transports does MCP support?", "relevant_urls": ["https://modelcontextprotocol.io/docs/concepts/transports"]}
